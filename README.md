@@ -27,7 +27,7 @@ SCREENSHOT OF PASSWORD GENERATOR
 [Screenshot 2023-08-10 223307](https://github.com/Emlonike/PasswordGenerator-/assets/137975251/0cbf52cd-0261-4776-a8de-4da099feb758)
 
 WEBSITE URL
-
+file:///C:/Users/emili/Desktop/passwordgenerator_project/index.html
 
 
 
